@@ -6,7 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smituk/zenlog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smituk/zenlog/issues"
+  },
+  "homepage" : "https://github.com/smituk/zenlog",
+  "keywords": ["logger","logging","logs","log","console","tracking","tracker","debugging","debuger","debug","inspector","inspect","zen","zenlog"],
   "author": "github.com/smituk",
   "license": "ISC"
 }
